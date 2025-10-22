@@ -1,6 +1,8 @@
-# 🐍 Sistema de Login em Python (Tkinter + CustomTkinter)
+# 🔐 Sistema de Login em Python (Tkinter + CustomTkinter)
 
-Este é um projeto simples de **tela de login** desenvolvido em **Python** utilizando a biblioteca **CustomTkinter** para criar uma interface moderna e estilizada no modo escuro.  
+Este é um projeto simples de **tela de login** desenvolvido em **Python** utilizando a biblioteca **CustomTkinter** para criar uma interface moderna e estilizada no modo escuro.
+
+Se desejar veja o mesmo projeto desenvolvido com **Java** e **JavaFX**: [Sistema de Login em JavaFX](https://github.com/pitercoding/tela-de-login-javafx)
 
 ## 🚀 Funcionalidades
 
@@ -64,7 +66,7 @@ Use as seguintes credenciais para testar o sistema:
 
 Este projeto foi criado com o objetivo de praticar:
 
-- 🪟 Criação de interfaces gráficas com **Tkinter**
+- 🛠️ Criação de interfaces gráficas com **Tkinter**
 - 🎨 Uso do **CustomTkinter** para uma estilização moderna
 - 🔐 Estrutura básica de um **sistema de autenticação**
 
